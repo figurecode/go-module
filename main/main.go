@@ -1,7 +1,7 @@
 package main
 
 import (
-	"arritn"
+	"arrint"
 	"fmt"
 	"github.com/figurecode/mymath"
 
